@@ -1,4 +1,3 @@
-
 # Looker E-Commerce Analysis
 
 ![Looker E-Commerce](https://github.com/user-attachments/assets/29bc8494-6dc2-4afb-95e8-ce27e82af1f2)
